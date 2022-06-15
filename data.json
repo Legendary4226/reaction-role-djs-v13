@@ -1,0 +1,10 @@
+{
+    "YOUR MESSAGE ID": { // Yes it's the same message id (to delete)
+        "channelID": "YOUR CHANNEL ID",
+        "messageID": "YOUR MESSAGE ID", // Yes it's the same message id (to delete)
+        "emojis": {
+            "🎮": "ROLE ID",
+            "✅": "ROLE ID"
+        }
+    }
+}
